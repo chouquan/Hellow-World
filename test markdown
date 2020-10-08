@@ -231,3 +231,6 @@ JupyterLab is basically a web application and, as such, has all kinds of feature
 1. With **Git + GitHub** we have a way to 'version' text, code, images, etc. and distribute them online via both a browser and the command line.
 2. With **Markdown** we have a way to easily produce content (essays, documentation, web sites, presentations) and convert or distribute it via both a browser and the commenad line.
 3. With JupyterLab we have a way to write code and documentation in an '**woven**' manner using Markdown and GitHub.
+
+
+XXXXXXXXXX
