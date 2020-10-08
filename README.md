@@ -10,7 +10,7 @@ In addition, I am reading the GitHub Guides.
 
 ** 一步一步的来 **
 
-* 亮不亮不 *
+* 亮不亮不 * 
 
 
 1) 呵呵呵
