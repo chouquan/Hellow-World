@@ -8,9 +8,10 @@ In addition, I am reading the GitHub Guides.
 
 ### 气氛有点尴尬似乎
 
-* 一步一步的来
+** 一步一步的来
 
-** 亮不亮不 
+* 亮不亮不 
+
 
 1) 呵呵呵
 2) 哈哈哈
